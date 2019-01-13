@@ -10,6 +10,8 @@ mvn package
 
 ```
 java -cp target/RunnableExample-1.0-SNAPSHOT.jar com.mycompany.RunnableExample.App
+java -cp target/RunnableExample-1.0-SNAPSHOT.jar com.mycompany.RunnableExample.RunnableExample
+java -cp target/RunnableExample-1.0-SNAPSHOT.jar com.mycompany.RunnableExample.ThreadExample
 ```
 
 References
