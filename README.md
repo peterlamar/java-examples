@@ -1,4 +1,4 @@
-# java-workshop
+# java-examples
 
 Collection of java reference examples for teaching and learning java
 
