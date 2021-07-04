@@ -21,6 +21,19 @@ mvn package
 java -cp target/hellojava-1.0-SNAPSHOT.jar com.mycompany.app.App
 ```
 
+OR
+
+1. 
+```
+cd src/main/java/com/mycompany/app
+```
+1.
+```
+java App.java
+```
+
 ### References
 
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+
